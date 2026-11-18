@@ -1,0 +1,42 @@
+# ExifTool Image Metadata Examination
+
+## 1. Project Overview
+This project is a beginner digital forensics exercise using ExifTool. The purpose was to examine image metadata and understand the information stored within an image file.
+
+## 2. Tool Used
+- ExifTool 13.64
+
+## 3. Evidence Description
+A practice image was created using Microsoft Paint for educational purposes.
+
+## 4. Examination Process
+1. Installed and prepared ExifTool on Windows.
+2. Opened Command Prompt and navigated to the project directory.
+3. Examined the image metadata.
+4. Extracted image width and height.
+5. Checked the file name, file type and MIME type.
+6. Examined available date and time metadata.
+7. Generated a metadata report in text format.
+
+## 5. Findings
+- ExifTool successfully examined the practice image.
+- Image dimensions were extracted.
+- The file was identified as PNG, despite having a .jpg filename.
+- Available metadata fields were displayed.
+- The examination results were saved in Metadata_Report.txt.
+
+## 6. Conclusion
+This practical demonstrated how ExifTool can be used to examine image metadata and identify file properties.
+
+It also showed why investigators should verify the actual file format rather than relying only on a file extension.
+
+## 7. Learning Outcomes
+I gained introductory practical experience in:
+- Using ExifTool.
+- Working with Windows Command Prompt.
+- Extracting image metadata.
+- Checking image file formats and MIME types.
+- Examining available timestamps.
+- Saving metadata examination results.
+
+**Project Status:** Completed beginner practice exercise.

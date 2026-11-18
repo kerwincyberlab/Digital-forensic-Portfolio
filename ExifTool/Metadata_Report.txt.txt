@@ -1,0 +1,25 @@
+[ExifTool]      ExifToolVersion                 : 13.64
+[System]        FileName                        : Practice_Image.jpg
+[System]        Directory                       : Practice_Images
+[System]        FileSize                        : 5.9 kB
+[System]        FileModifyDate                  : 2026:11:18 13:29:40-08:00
+[System]        FileAccessDate                  : 2026:11:18 14:03:59-08:00
+[System]        FileCreateDate                  : 2026:11:18 13:29:40-08:00
+[System]        FilePermissions                 : -rw-rw-rw-
+[File]          FileType                        : PNG
+[File]          FileTypeExtension               : png
+[File]          MIMEType                        : image/png
+[PNG]           ImageWidth                      : 1152
+[PNG]           ImageHeight                     : 648
+[PNG]           BitDepth                        : 8
+[PNG]           ColorType                       : RGB
+[PNG]           Compression                     : Deflate/Inflate
+[PNG]           Filter                          : Adaptive
+[PNG]           Interlace                       : Noninterlaced
+[PNG]           SRGBRendering                   : Perceptual
+[PNG]           Gamma                           : 2.2
+[PNG-pHYs]      PixelsPerUnitX                  : 4724
+[PNG-pHYs]      PixelsPerUnitY                  : 4724
+[PNG-pHYs]      PixelUnits                      : meters
+[Composite]     ImageSize                       : 1152x648
+[Composite]     Megapixels                      : 0.746
